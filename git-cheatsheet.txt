@@ -1,0 +1,13 @@
+git init
+git status
+git add <file>
+git commit -m "input a descriptive message here"
+git log
+git add .
+git diff <file>
+git checkout <file>
+
+//from local repository to remote repository 
+//.git to Github
+git remote add origin <url of the remote repository>
+git push -u origin master
