@@ -11,3 +11,10 @@ git checkout <file>
 //.git to Github
 git remote add origin <url of the remote repository>
 git push -u origin master
+
+//create a branch called alien-plot
+git branch client-plot
+//view all branches
+git branch 
+//switch to the alien-plot branch
+git checkout alien-plot
